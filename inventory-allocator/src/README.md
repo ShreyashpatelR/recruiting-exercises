@@ -1,4 +1,4 @@
-How to run :
+#How to run :
 
 Create a project in any Java IDE
 Add three file InventoryAllocator.java, JUnitTest.java, MainFile.java in the src folder in the newly created project.
@@ -8,3 +8,5 @@ External library are in the 'lib' folder (hamcrest-core-1.3.jar,json-20200518.ja
 
 After that run 'MainFile' or run that project 
 
+![Alt text](image/a1.PNG?raw=true "Optional Title")
+![Alt text](image/a2.PNG?raw=true "Optional Title")
