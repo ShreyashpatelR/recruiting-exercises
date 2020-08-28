@@ -13,7 +13,7 @@
 
 1 This image is for how to enter data manually. 
 
-![Alt text](image/a1.PNG?raw=true "Optional Title")
+![Alt text](image/a3.PNG?raw=true "Optional Title")
 
 2 This image is for how to run unit test
 
